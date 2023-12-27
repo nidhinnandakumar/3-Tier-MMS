@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Speridian.MMS.BL\Speridian.MMS.BL.csproj" />
+    <ProjectReference Include="..\Speridian.MMS.Entities\Speridian.MMS.Entities.csproj" />
+    <ProjectReference Include="..\Speridian.MMS.Exceptions\Speridian.MMS.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

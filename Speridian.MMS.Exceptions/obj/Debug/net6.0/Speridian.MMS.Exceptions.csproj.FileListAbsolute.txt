@@ -1,0 +1,11 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\bin\Debug\net6.0\Speridian.MMS.Exceptions.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\bin\Debug\net6.0\Speridian.MMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\bin\Debug\net6.0\Speridian.MMS.Exceptions.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\Speridian.MMS.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\Speridian.MMS.Exceptions.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\Speridian.MMS.Exceptions.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\Speridian.MMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\Speridian.MMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\refint\Speridian.MMS.Exceptions.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\Speridian.MMS.Exceptions.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Exceptions\obj\Debug\net6.0\ref\Speridian.MMS.Exceptions.dll

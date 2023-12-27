@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpSANnlJkq73y1//RWberZb9K85Te3ELMYi/giCfUac6SCf05ZENn4qUGaNYEeHmuvSyZ2uE5QSQA+4jhA+bkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nidhin.nandakumar\\Desktop\\LABS\\Speridian.MMS\\Speridian.MMS.Entities\\Speridian.MMS.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nidhin.nandakumar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

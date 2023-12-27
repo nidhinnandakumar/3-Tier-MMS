@@ -1,0 +1,12 @@
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\bin\Debug\net6.0\Speridian.MMS.Entities.deps.json
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\bin\Debug\net6.0\Speridian.MMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\bin\Debug\net6.0\Speridian.MMS.Entities.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.csproj.AssemblyReference.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.AssemblyInfoInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.AssemblyInfo.cs
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\refint\Speridian.MMS.Entities.dll
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\Speridian.MMS.Entities.pdb
+C:\Users\nidhin.nandakumar\Desktop\LABS\Speridian.MMS\Speridian.MMS.Entities\obj\Debug\net6.0\ref\Speridian.MMS.Entities.dll
